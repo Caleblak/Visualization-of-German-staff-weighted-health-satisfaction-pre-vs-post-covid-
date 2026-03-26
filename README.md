@@ -1,0 +1,2 @@
+# Visualization-of-German-staff-weighted-health-satisfaction-pre-vs-post-covid-
+There has been a striking betterment of health satisfaction in Germany after COVID which is in contrary to what has been observed in the rest of the world especially, the US, Eu countries and UK have had a substantial loss of satisfaction across many studies. this visualization helps visualize if Health staffing change act of 2019 affects it.
